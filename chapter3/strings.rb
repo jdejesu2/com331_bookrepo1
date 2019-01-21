@@ -35,7 +35,9 @@ puts  2  *  5
 puts '2' *  5
 puts '2  *  5'
 ##OUTPUTS
-##
+##10
+##22222
+##2  *  5
 
 ##OUTPUTS
 ##
