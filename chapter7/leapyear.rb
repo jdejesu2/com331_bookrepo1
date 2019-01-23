@@ -12,3 +12,10 @@ puts 'Enter your starting year'
 startyear = gets.chomp
 puts 'Enter your ending year'
 endyear = gets.chomp
+
+while startyear <= endyear
+  if startyear % 4 == 0
+  puts startyear
+  end
+startyear = startyear + 1
+end
