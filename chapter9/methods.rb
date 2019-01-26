@@ -69,8 +69,8 @@ while true
 
     puts 'Do you like eating sopapillas?'
 
-    answer = gets.chomp.downcase  
-     
+    answer = gets.chomp.downcase
+
     if (answer == 'yes' || answer == 'no')
 
       break
