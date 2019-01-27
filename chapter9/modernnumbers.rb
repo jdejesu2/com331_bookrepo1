@@ -1,3 +1,5 @@
+## from book
+##did not get this exercise 
 def roman_numeral num
   thous = (num / 1000)
   hunds = (num % 1000 / 100)
