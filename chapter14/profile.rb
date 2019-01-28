@@ -19,5 +19,5 @@ profile 'count to a million' do
   end
 end
 ##7526 digits
-##25000 doublings: 0.044003 seconds
-##count to a million: 0.072004 seconds
+##25000 doublings:  0.040605 seconds
+##count to a million:  0.03912 seconds
